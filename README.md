@@ -27,7 +27,7 @@
 
 To get a local copy up and running follow these simple example steps.
 
-`git clone git@github.com:Bondok6/Expense-tracker-app.git`
+`git clone https://github.com/Reem-lab/expense-tracker.git`
 
 Then `cd Expense-tracker-app`
 
